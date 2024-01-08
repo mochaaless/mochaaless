@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wakatime.com/photo/018b821c-d9fc-42c8-b52e-7adba12899a1?s=420&cache=false&time=1704734461.006073" /></p>
+<p align="center"><img src="https://assets.whop.com/cdn-cgi/image/width=64/https://assets.whop.com/bots/images/50039.original.png?1694692531" /></p>
 
 <p align="center">
   <a href="https://wakatime.com/@mochaaless">
