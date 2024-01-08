@@ -1,4 +1,4 @@
-<p align="center"><img src="https://assets.whop.com/cdn-cgi/image/width=64/https://assets.whop.com/bots/images/50039.original.png?1694692531" width="80"/></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/D4D16AQH6VDTQuhqu0Q/profile-displaybackgroundimage-shrink_350_1400/0/1704738922030?e=1710374400&v=beta&t=YXnYL_bGIi7oePCC_qsU9oFAZvxctMMuHqRflMlHxzs" width="600"/></p>
 
 <h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
