@@ -21,3 +21,8 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaaless&layout=compact&theme=midnight-purple" alt="Top Langs Stats"/>
 </p>
+
+---
+
+### &nbsp;Languages and Tools
+![](https://skillicons.dev/icons?i=linux,nginx,nodejs,py,js,ts,java,kotlin,swift,php,c,cpp,cs,go,visualstudio,vscode,vim,eclipse,dotnet,qt,gtk,jquery,bootstrap,threejs,css,sass,html,flask,tensorflow,react,processing,arduino,raspberrypi,bash,selenium,mongodb,sqlite,mysql,postgres,redis,firebase,postman,netlify,docker,git,github,gitlab,stackoverflow,linkedin,twitter&theme=light&perline=25)
