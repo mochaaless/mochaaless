@@ -24,5 +24,5 @@
 
 ---
 
-### &nbsp;Languages and Tools
+### &nbsp;Languages and Tools :
 ![](https://skillicons.dev/icons?i=py,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
