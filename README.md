@@ -14,13 +14,7 @@
 
 ---
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=mochaaless&count_private=true&theme=midnight-purple&show_icons=true" alt="Github Stats"/>
-</p>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaaless&layout=compact&theme=midnight-purple" alt="Top Langs Stats"/>
-</p>
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=mochaaless&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=mochaaless&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />. 
 
 ---
 
