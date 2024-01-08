@@ -25,4 +25,4 @@
 ---
 
 ### &nbsp;Languages and Tools
-![](https://skillicons.dev/icons?i=py,js,ts,c++,java,vscode,mongodb,mysql,postman,git&theme=light&perline=25)
+![](https://skillicons.dev/icons?i=py,js,ts,cplusplus,java,vscode,mongodb,mysql,postman,git&theme=light&perline=25)
