@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/108068519?v=4" /></p>
+<p align="center"><img src="[https://avatars.githubusercontent.com/u/108068519?v=4](https://wakatime.com/photo/018b821c-d9fc-42c8-b52e-7adba12899a1?s=420&cache=false&time=1704734581.025185)" /></p>
 
 <p align="center">
   <a href="https://wakatime.com/@mochaaless">
