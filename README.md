@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@mochaaless">
-      <img src="https://assets.whop.com/cdn-cgi/image/width=64/https://assets.whop.com/bots/images/50039.original.png" alt="Wakatime Badge">
+      <img src="https://wakatime.com/badge/user/018b821c-d9fc-42c8-b52e-7adba12899a1.svg" alt="Wakatime Badge">
   </a>
 </p>
 
