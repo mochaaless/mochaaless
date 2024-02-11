@@ -9,7 +9,11 @@
   
 ---
 
-<img align="" height="120px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=mochaaless&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="120px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=mochaaless&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" /> 
+<img align="" height="200px" src="https://wakatime.com/share/@mochaaless/8e888ddc-937f-480b-8432-5a2822f26868.svg" />
+
+---
+
+<img align="" height="280px" src="https://wakatime.com/share/@mochaaless/f60f3256-1573-405d-b8ca-ecb36d170fe8.svg" /> 
 
 ---
 
