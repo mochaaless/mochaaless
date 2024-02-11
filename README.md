@@ -9,13 +9,5 @@
   
 ---
 
-<img align="" height="200px" src="https://wakatime.com/share/@mochaaless/8e888ddc-937f-480b-8432-5a2822f26868.svg" />
-
----
-
-<img align="" height="280px" src="https://wakatime.com/share/@mochaaless/f60f3256-1573-405d-b8ca-ecb36d170fe8.svg" /> 
-
----
-
 ### &nbsp;Languages and Tools :
 ![](https://skillicons.dev/icons?i=py,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
