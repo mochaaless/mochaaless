@@ -10,4 +10,4 @@
 ---
 
 ### &nbsp;Languages and Tools :
-![](https://skillicons.dev/icons?i=go,py,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
+![](https://skillicons.dev/icons?i=go,py,js,ts,java,cpp,electron,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
