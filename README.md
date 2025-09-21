@@ -1,5 +1,3 @@
-<p align="center"><img src="https://wakatime.com/photo/018b821c-d9fc-42c8-b52e-7adba12899a1?s=420&cache=false&time=1747914179.9724946" width="200"/></p>
-
 <h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### &nbsp;About Me :
