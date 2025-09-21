@@ -4,7 +4,8 @@
 
 ### &nbsp;About Me :
 - 🚀 <a href="https://wakatime.com/@mochaaless"> <img src="https://wakatime.com/badge/user/018b821c-d9fc-42c8-b52e-7adba12899a1.svg" alt="Wakatime Badge" > </a>
-- ⚡ Freelance Software developer and Computer Science Student
+- ⚡ Full Stack Engineer @ [Justtikit](https://justtikit.com/)
+- 📍 Dubai & Madrid
 - 💬 Contact me: [Twitter](https://twitter.com/mochaaless) | [LinkedIn](https://www.linkedin.com/in/david-mochales/) | [Portfolio](https://portfolio.mochalesdev.com)
   
 ---
